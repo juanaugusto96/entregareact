@@ -1,0 +1,51 @@
+[{"id":"iphone-01",
+    "title":"iphone 11",
+"image":"iphone.jpeg",
+"precio" : 1200
+},
+{"id":"iphone-02",
+    "title":"iphone 11 plus",
+"image":"iphone13.jpeg",
+"precio" : 1500
+},
+{"id":"iphone-03",
+    "title":"iphone 13",
+"image":"iphone.jpeg",
+"precio" : 7200
+},
+{"id":"iphone-04",
+    "title":"iphone 15",
+"image":"iphone.jpeg",
+"precio" : 4200
+},
+{"id":"iphone-05",
+    "title":"iphone 19",
+"image":"iphone.jpeg",
+"precio" : 10200
+},
+{"id":"iphone-06",
+    "title":"iphone 16",
+"image":"iphone.jpeg",
+"precio" : 9200
+},
+{"id":"iphone-07",
+    "title":"iphone 16",
+"image":"iphone.jpeg",
+"precio" : 9200
+},
+{"id":"iphone-08",
+    "title":"iphone 16",
+"image":"iphone.jpeg",
+"precio" : 9200
+},
+{"id":"iphone-09",
+    "title":"iphone 16",
+"image":"iphone.jpeg",
+"precio" : 9200
+},
+{"id":"iphone-10",
+    "title":"iphone 16",
+"image":"iphone.jpeg",
+"precio" : 9200
+}
+]
